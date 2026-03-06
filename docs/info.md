@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+ A single bit full adder performs the operation of 1 bit addition by taking 3 inputs and shows us the result using 2 outputs. It uses a switch to set the values and uses various gates for smooth operation
 
 ## How to test
 
-Explain how to use your project
+A table is set to check the outputs.
 
 ## External hardware
 
